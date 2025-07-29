@@ -1,0 +1,71 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\z5589880\Downloads\L.Exercises for Appendix L\Exercises for Appendix L\analog_input\analog_input.uvproj
+Project File Date:  07/29/2025
+
+<h2>Output:</h2>
+Build target 'QVGA Base Board'
+assembling LPC2400.s...
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+src\main.c(22): error:  #268: declaration may not appear after executable statement in block
+src\main.c(23): error:  #268: declaration may not appear after executable statement in block
+src\main.c(33): error:  #268: declaration may not appear after executable statement in block
+src\main.c(33): error:  #20: identifier "AD0DR" is undefined
+Target not created
+Build target 'QVGA Base Board'
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+src\main.c(22): error:  #268: declaration may not appear after executable statement in block
+src\main.c(23): error:  #268: declaration may not appear after executable statement in block
+src\main.c(33): error:  #268: declaration may not appear after executable statement in block
+src\main.c(33): error:  #20: identifier "AD0DR" is undefined
+Target not created
+Build target 'QVGA Base Board'
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+src\main.c(22): error:  #268: declaration may not appear after executable statement in block
+src\main.c(34): error:  #268: declaration may not appear after executable statement in block
+src\main.c(34): error:  #20: identifier "AD0DR" is undefined
+Target not created
+Build target 'QVGA Base Board'
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+src\main.c(22): error:  #268: declaration may not appear after executable statement in block
+src\main.c(34): error:  #20: identifier "AD0DR" is undefined
+Target not created
+Build target 'QVGA Base Board'
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+src\main.c(22): error:  #268: declaration may not appear after executable statement in block
+src\main.c(23): error:  #268: declaration may not appear after executable statement in block
+src\main.c(35): error:  #20: identifier "AD0DR" is undefined
+Target not created
+Build target 'QVGA Base Board'
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+src\main.c(22): error:  #268: declaration may not appear after executable statement in block
+src\main.c(23): error:  #268: declaration may not appear after executable statement in block
+src\main.c(36): error:  #20: identifier "AD0DR" is undefined
+Target not created
+Build target 'QVGA Base Board'
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+src\main.c(22): error:  #268: declaration may not appear after executable statement in block
+src\main.c(23): error:  #268: declaration may not appear after executable statement in block
+src\main.c(36): error:  #20: identifier "AD0DR" is undefined
+Target not created
+Build target 'QVGA Base Board'
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+src\main.c(37): error:  #20: identifier "AD0DR" is undefined
+Target not created
+Build target 'QVGA Base Board'
+compiling main.c...
+src\main.c(7): warning:  #550-D: variable "result" was set but never used
+linking...
+Program Size: Code=1120 RO-data=16 RW-data=0 ZI-data=1384  
+".\output\analog_input.axf" - 0 Error(s), 1 Warning(s).
