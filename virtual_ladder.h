@@ -1,0 +1,1 @@
+void displayVirtualLadder(int adcValue);
